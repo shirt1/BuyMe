@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+    <browserType>webdriver.chrome.driver</browserType>
+    <browserType2>webdriver.chrome.driver</browserType2>
+    <browserTypePath>D:\User\Desktop\qa\chromedriver.exe</browserTypePath>
+    <browserType2Path>D:\User\Desktop\qa\chromedriver.exe</browserType2Path>
+    <URL>https://buyme.co.il/</URL>
+    <URL2>https://buyme.co.il/</URL2>
+</config>
